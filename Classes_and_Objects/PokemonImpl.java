@@ -19,8 +19,6 @@ public class PokemonImpl {
     System.out.println(squirtle.getName() + " has fainted! " + charizard.getName() +
     " won! ");
 
-
-
   }//endmain
 
 
